@@ -8,7 +8,7 @@ import java.util.HashMap;
  * {@link Client}<br />
  * This class extends and acts as a Socket with some helper methods to interact with the messaging system
  *
- * @author Mikk Sanborn, Eric Qian, Caitlin Wilson, Jimmy Lin, Javad Jafarov
+ * @author Javad Jafarov, Mikk Sanborn, Eric Qian, Caitlin Wilson, Jimmy Lin
  * @version 12/12/2022
  */
 public class Client extends Socket {
